@@ -26,4 +26,4 @@ After connecting coppy the steam id from "Identifiers" on the tool, and in the s
 
 And repeat. (No excuses for not doing your mutes now.)
 
-Download here: 
+Download here: https://github.com/Benny-Rust/IFN-Mod-Tool/releases
