@@ -26,6 +26,8 @@ After connecting coppy the steam id from "Identifiers" on the tool, and in the s
 
 And repeat. (No excuses for not doing your mutes now.)
 
+Video Version on how to use: https://www.youtube.com/watch?v=thD0J3XLMNk
+
 Download here: https://github.com/Benny-Rust/IFN-Mod-Tool/releases
 
 VirusTotal: https://www.virustotal.com/gui/file/175e666e999044c71ff0d8c36e6fdc414e1bbba6eced9c621b89d635b67538ff/detection
